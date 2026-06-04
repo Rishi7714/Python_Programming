@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Banner Grabber — Service Banner & Fingerprinting Tool
 Author  : Rishabh Sankhla | CEH v13 | TryHackMe Top 2%
